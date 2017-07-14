@@ -1,0 +1,15 @@
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\bin\Debug\ListViewTut.dll
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\bin\Debug\ListViewTut.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\bin\Debug\ListViewTut.ListViewTut.apk
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\bin\Debug\ListViewTut.ListViewTut-Signed.apk
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\ListViewTut.dll
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\ListViewTut.pdb
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\android\bin\ListViewTut.ListViewTut.apk
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\res\layout\main.xml
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\res\values\strings.xml
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\res\drawable\icon.png
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\R.cs.flag
+c:\users\daniel\documents\visual studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\uploadflags.txt
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\res\layout\listview_row.xml
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ListViewTut\ListViewTut\bin\Debug\ListViewTut.dll.mdb
+C:\Users\Daniel\Documents\Visual Studio 2017\Projects\ListViewTut\ListViewTut\obj\Debug\android\assets\ListViewTut.dll.mdb
